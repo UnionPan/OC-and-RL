@@ -1,0 +1,15 @@
+Code for q learning:
+1.mountaincar_q.py 2.airraid_q.py
+
+Code for neat:
+1.mountaincar_neat.py 2.airraid_neat.py
+
+To run neat code, we need:
+1. neat-python;
+2. gym;
+3. any package that is missing when run.
+
+To run Q learning code, we need:
+1.tensorflow with keras
+
+ 
